@@ -1,0 +1,13 @@
+"sap.ui.generic.app": {
+    "Suppliers": {
+    "EntitySet": "Suppliers",
+    "Actions": {
+        "ChangePrice": {
+        "id": "idChangeTotalSales",
+        "text": "Change Total Sales",
+        "press": "onPressChangeTotalSales",
+        "requiresSelection": true
+        }
+    }
+    }
+}

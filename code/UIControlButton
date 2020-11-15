@@ -1,0 +1,11 @@
+sap.ui.define([
+    "sap/ui/comp/smartfilterbar/SmartFilterBar",
+    "sap/m/ComboBox",
+    "sap/ui/model/Filter",
+    "sap/ui/comp/smartfield/SmartField",
+    "sap/m/Dialog",
+    "sap/m/Text",
+    "sap/m/Button",
+    "sap/m/ButtonType",
+    "sap/m/DialogType"
+], function (SmartFilterBar, ComboBox, Filter, SmartField, Dialog, Text, Button, ButtonType, DialogType) {

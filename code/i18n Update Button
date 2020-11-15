@@ -1,0 +1,11 @@
+#XFLD: Change Total Sales label
+changeTotalSalesLabel=Change Total Sales
+
+#XFLD: New Total Sales label
+newTotalSalesLabel=New Total Sales
+
+#XBUT: Cancel button
+cancelButton=Cancel
+
+#XBUT: OK button
+okButton=OK
