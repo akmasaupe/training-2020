@@ -1,0 +1,18 @@
+"extends": {
+  "extensions": {
+    "sap.ui.viewExtensions": {
+      "sap.suite.ui.generic.template.ListReport.view.ListReport": {
+        "SmartFilterBarControlConfigurationExtension|Suppliers": {
+          "className": "sap.ui.core.Fragment",
+          "fragmentName": "com.rizing.myfioriapp.ext.fragment.CustomFilterExtension",
+          "type": "XML"
+        }
+      }
+    },
+    "sap.ui.controllerExtensions": {
+      "sap.suite.ui.generic.template.ListReport.view.ListReport": {
+        "controllerName": "com.rizing.myfioriapp.ext.controller.ListReportExtension"
+      }
+    }
+  }
+},
