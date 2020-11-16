@@ -1,0 +1,5 @@
+#XFLD: Sales Overview label
+salesOverviewLabel=Sales Overview
+
+#YMSG: Sales Overview text
+salesOverviewText=Hello from Sales Overview icon!

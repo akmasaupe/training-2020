@@ -1,0 +1,10 @@
+"ResponsiveTableColumnsExtension|Suppliers": {
+    "className": "sap.ui.core.Fragment",
+    "fragmentName": "com.rizing.myfioriapp.ext.fragment.ListReportResponsiveTableColumns",
+    "type": "XML"
+},
+"ResponsiveTableCellsExtension|Suppliers": {
+    "className": "sap.ui.core.Fragment",
+    "fragmentName": "com.rizing.myfioriapp.ext.fragment.ListReportResponsiveTableCells",
+    "type": "XML"
+}
